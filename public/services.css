@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    /* border: 1px solid #000; */
+}
+section .img {
+    /* border: 1px solid #000; */
+    width: 60vw;
+    margin: 1em auto;
+}
+
+.img img {
+    width: 100%;
+}
+
+.post h2 {
+    /* border: 1px solid #000; */
+    width: 60vw;
+    margin: .5em auto;
+}
+
+.post > p {
+    /* border: 1px solid #000; */
+    width: 60vw;
+    margin: .5em auto;
+    text-align: left;
+}

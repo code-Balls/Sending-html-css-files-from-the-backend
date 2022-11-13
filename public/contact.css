@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    padding-top: 3em;
+    padding-bottom: 3em;
+
+}
+
+form input {
+    display: block;
+    margin-bottom: 3em;
+    height: 4vh;
+}
+
+section {
+    /* border: 1px solid #000; */
+    width: 50%;
+    margin: 2em auto;
+    padding-left: 15em;
+}
+
+section h1 {
+    font-size: 36px;
+}
+
+section div {
+    /* border: 1px solid #000; */
+    margin: 1em auto;
+}
+form button {
+    /* border: 1px solid #000; */
+    height: 5vh;
+    width: 9vw;
+    padding: .5em;
+    font-size: 17px;
+}
